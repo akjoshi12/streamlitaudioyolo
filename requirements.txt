@@ -1,0 +1,11 @@
+streamlit
+SpeechRecognition
+gtts
+os
+Python-IO
+pyaudio
+ultralytics
+hydra-core
+collections
+python-opencv
+torch
